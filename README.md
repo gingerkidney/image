@@ -2,4 +2,4 @@
 
 
 insert image
-![Alt Text](image/tidb_community-gray.png)
+![Alt Text](https://raw.githubusercontent.com/gingerkidney/image/master/tidb_community-gray.png)
